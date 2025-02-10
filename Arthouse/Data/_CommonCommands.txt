@@ -1,0 +1,2 @@
+﻿Add-Migration -Context ArtContext -o Data\ArtMigrations Initial
+Update-Database -Context ArtContext
